@@ -4,6 +4,14 @@
 
 WorkoutApp is a mobile application designed for planning and tracking workouts, built with a clean architecture approach and modern Android libraries. The app provides a user-friendly interface, allows users to select workout difficulty levels, and displays detailed workout information.
 
+## Screenshots
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/4fc6cc03-fe26-4f1f-b0b3-047aae51ab5b" alt="User List Page" width="30%">
+  <img src="https://github.com/user-attachments/assets/0816b49c-816a-4f78-9229-f30acce321f4" alt="Registration Page" width="30%">
+  <img src="https://github.com/user-attachments/assets/1b7897fa-adb2-48e6-9373-23023556d365" alt="Registration Page" width="30%">
+</div>
+
 ## Benefits of Clean Architecture
 
 WorkoutApp follows **clean architecture principles**, which bring the following advantages:

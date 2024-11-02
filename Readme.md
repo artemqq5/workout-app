@@ -7,9 +7,9 @@ WorkoutApp is a mobile application designed for planning and tracking workouts, 
 ## Screenshots
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/4fc6cc03-fe26-4f1f-b0b3-047aae51ab5b" alt="User List Page" width="30%">
   <img src="https://github.com/user-attachments/assets/0816b49c-816a-4f78-9229-f30acce321f4" alt="Registration Page" width="30%">
   <img src="https://github.com/user-attachments/assets/1b7897fa-adb2-48e6-9373-23023556d365" alt="Registration Page" width="30%">
+  <img src="https://github.com/user-attachments/assets/4fc6cc03-fe26-4f1f-b0b3-047aae51ab5b" alt="User List Page" width="30%">
 </div>
 
 ## Benefits of Clean Architecture
